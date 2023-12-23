@@ -1,6 +1,6 @@
 import random
 
-""" Version 23/12/23 A
+""" Version 23/12/23 B
                          NOTES ON STRONG PASSWORDS
 ---------------------------------------------------------------------------
 - at least 12 characters but 14 or more is better
@@ -112,6 +112,3 @@ def check_password(password):
         return False
     
     return True
-
-print(password_generator())
-print()
