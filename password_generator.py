@@ -1,6 +1,6 @@
 import random
 
-""" Version 23/12/23 B
+""" Version 23/12/23 C
                          NOTES ON STRONG PASSWORDS
 ---------------------------------------------------------------------------
 - at least 12 characters but 14 or more is better
